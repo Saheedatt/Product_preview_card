@@ -28,8 +28,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Saheedatt/Product_preview_card)
+- Live Site URL: [Live Site URL](https://saheedatt.github.io/Product_preview_card/)
 
 ## My process
 
